@@ -1,0 +1,6 @@
+{
+  "name": "Employee Performance Prediction System",
+  "description": "An advanced, dataset-driven HR analytics dashboard and employee performance prediction system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
